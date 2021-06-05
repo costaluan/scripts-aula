@@ -1,0 +1,4 @@
+#!/bin/bash
+echo >> scripts.txt
+cp scripts.txt aula
+ls aula

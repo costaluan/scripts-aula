@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir aula
+cd aula
+echo "Aula de Script" >scripts.txt
+mv scripts.txt scriptsAula.txt
+
