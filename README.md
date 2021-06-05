@@ -17,6 +17,12 @@
   
 <p align="justify">Para ser realizada a edição do arquivo dentro do terminal do GIT, utilizar o comando "nano nomedoArquivo". </br> Após ser feita a edição do arquivo salvar conforme o programa solicitar, após isso poderá ser feita a sua execução.</p>
 
+<h3 align="left">Links uteis:</h3>
+<li><a href="https://www.hostinger.com.br/tutoriais/como-instalar-editor-de-texto-nano/">Como utilizar o NANO</li>
+<li><a href="https://git-scm.com/downloads/">Download GIT</li>
+<li><a href="https://www.youtube.com/watch?v=2y5JGW6nZRs">Como instalar o GIT</li>
+<li><a href="https://www.youtube.com/watch?v=pOQcBtKrS1g">Como executar um arquivo sh</li>
+
 
 
 
